@@ -1,5 +1,6 @@
 # Assignment-19
 Object detection data preparation.
+I have downloaded images of Barak obama, and josaph biden together.
 
 Using k=4 with the k-meanse code above, we get the folloing **cluster centroid* height and widths:
 
