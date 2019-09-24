@@ -9,3 +9,4 @@ Using k=4 with the k-meanse code above, we get the folloing **cluster centroid* 
 (h=61.02985075, w=45.08955224)
 (h=183.57142857, w=91.88095238)
 
+The above centroids are after re-normalization.
